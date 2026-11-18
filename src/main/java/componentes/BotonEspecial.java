@@ -142,6 +142,7 @@ public class BotonEspecial extends Button{
 		}
 		else {
 			disarm();
+			this.activado = activado;
 		}
 	}
 	/**
